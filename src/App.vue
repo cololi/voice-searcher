@@ -2,7 +2,6 @@
   <div id="app">
     <v-header />
     <router-view/>
-    <control v-if="$route.path === '/'"/>
     <v-footer />
   </div>
 </template>

@@ -20,13 +20,9 @@
 </template>
 
 <script>
-import IBtn from '../components/common/IconBtn'
 import info from '../../public/translate/locales.js'
 
 export default {
-  components: {
-    IBtn
-  },
   data () {
     return {
       githubUrl: 'https://github.com/blacktunes/kaguranana-button',

@@ -143,7 +143,7 @@ export default {
       justify-content center
       height 100px
       max-width 50%
-      margin-top 150px
+      margin-top 130px
       img
         width 100%
         margin auto
